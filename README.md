@@ -99,7 +99,7 @@ Don't worry, it's already in `.gitignore` to keep your secrets safe!
 
 ## 📜 License
 
-This project is under the MIT License - because sharing is caring! See [LICENSE.md](LICENSE.md) for the legal stuff.
+This project is under the MIT License - because sharing is caring! See [LICENSE.md](LICENSE) for the legal stuff.
 
 ## Contact
 
